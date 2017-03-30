@@ -1,0 +1,1 @@
+require(__dirname + '/components/maincontent/maincontent.js');

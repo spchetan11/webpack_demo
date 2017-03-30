@@ -1,0 +1,7 @@
+https://www.youtube.com/playlist?list=PLnObopLrGSq6hs6dMaZXYoBOSldhjsaH2
+
+Some of the path urls are edited __dirname instead of ./
+
+run 'webpack' in console in root of project and browse /static/index.html and open it. go to console to check.
+
+for server to start, run 'webpack-dev-server --content-base ./static --port 4000' and open http://localhost:4000/bundle and open console to check
